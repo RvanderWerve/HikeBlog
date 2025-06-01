@@ -1,0 +1,7 @@
+.single{
+    display: flex;
+    background: radial-gradient(
+         rgb(228, 250, 212),
+       rgb(246, 255, 242)
+      );
+}

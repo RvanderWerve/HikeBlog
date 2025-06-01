@@ -1,0 +1,81 @@
+.sidebar {
+  flex: 1;
+  margin: 10px;
+  margin-top: 190px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  background-color: #dafebc;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sidebarItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sidebarTitle {
+ 
+  width: 70%;
+  border-top: 1px solid #a7a4a4;
+  border-bottom: 1px solid #a7a4a4;
+  font-family: "Varela Round", sans-serif;
+  font-size: 14px;
+  color: rgb(106, 106, 106);
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+}
+
+.sidebarItem > img {
+  margin-top: 15px;
+}
+
+.sidebarItem > p {
+  padding: 20px;
+}
+
+.sidebarList {
+  text-align: center;
+  list-style: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 30px;
+
+}
+
+.sidebarListItem {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  margin-top: 5px;
+  cursor: pointer;
+    color: #6d6d6d;
+
+}
+
+.sidebarSocial {
+  margin-top: 15px;
+  width: 120px;
+  color: rgba(244, 27, 27, 0.955);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebarIcon{
+    font-size: 18px;
+    margin-left: 10px;
+    cursor: pointer;
+      color: rgba(244, 27, 27, 0.955);
+}
+sidebarIcon>a:hover{
+  color:  rgba(244, 27, 27, 0.955)
+}
+sidebarIcon>a:visited{
+  color:  rgba(244, 27, 27, 0.955)
+}

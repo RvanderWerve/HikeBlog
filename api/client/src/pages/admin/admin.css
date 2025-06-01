@@ -1,0 +1,94 @@
+.admin {
+  display: flex;
+}
+
+.adminWrapper {
+  flex: 9;
+  padding: 20px;
+    font-family: "Josefin Sans", sans-serif;
+
+}
+
+.adminTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.adminUpdateTitle {
+  font-size: 30px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  color: lightcoral;
+}
+
+.adminDeleteTitle {
+  color: red;
+  font-size: 12px;
+}
+
+.adminIcon {
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+.adminIconEdit {
+ margin-left: 20px;
+ color: teal;
+}
+.adminIconNew {
+  color: teal;
+}
+
+.adminIconDelete {
+  color: tomato;
+}
+
+.adminListTitle{
+    color: grey;
+    font-size: 18px;
+
+}
+
+.adminUserList{
+    color: grey;
+    font-size: 18px;
+    padding: 10px;
+    list-style: none;
+    
+}
+
+hr{
+width: 400px;
+}
+
+.adminForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.adminPP {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.adminPP > img {
+  width: 70px;
+  height: 70px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.adminPPIcon {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: lightcoral;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  cursor: pointer;
+}

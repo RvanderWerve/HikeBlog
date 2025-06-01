@@ -1,0 +1,19 @@
+.postsHeader{
+    float: right;
+
+}
+
+.posts{
+    flex: 12;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.sortIcon{
+    float: right;
+    width: 33px;
+    height: 33px;
+    align-content: flex-end
+
+}

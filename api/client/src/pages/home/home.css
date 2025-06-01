@@ -1,0 +1,11 @@
+.home{
+    display: flex;
+    background: linear-gradient(
+        90deg,
+       rgb(237, 253, 229),
+       rgb(242, 253, 230),
+         rgb(237, 253, 229)
+
+    );
+}
+

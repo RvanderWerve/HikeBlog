@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="02n.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.296875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs6">
+    <linearGradient
+       id="a"
+       x1="13.58"
+       x2="24.15"
+       y1="15.57"
+       y2="33.87"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#86c3db"
+         id="stop1" />
+      <stop
+         offset=".45"
+         stop-color="#86c3db"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#5eafcf"
+         id="stop3" />
+      <animateTransform
+         attributeName="gradientTransform"
+         dur="10s"
+         repeatCount="indefinite"
+         type="rotate"
+         values="10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="22.56"
+       x2="39.2"
+       y1="21.96"
+       y2="50.8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f3f7fe"
+         id="stop4"
+         style="stop-color:#8383ac;stop-opacity:1;" />
+      <stop
+         offset=".45"
+         stop-color="#f3f7fe"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#deeafb"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <path
+     fill="url(#a)"
+     stroke="#72b9d5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".5"
+     d="M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z"
+     id="path6">
+    <animateTransform
+       attributeName="transform"
+       dur="10s"
+       repeatCount="indefinite"
+       type="rotate"
+       values="-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293" />
+  </path>
+  <path
+     fill="url(#b)"
+     stroke="#e6effc"
+     stroke-miterlimit="10"
+     stroke-width=".5"
+     d="M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z"
+     id="path7" />
+</svg>
